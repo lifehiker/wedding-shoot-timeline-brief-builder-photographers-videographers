@@ -1,0 +1,9 @@
+.git
+.next
+node_modules
+npm-debug.log
+.env
+.env.local
+dev.db
+prisma/dev.db
+FORGE_COMPLETION_AUDIT.md
